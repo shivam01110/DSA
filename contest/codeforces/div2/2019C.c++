@@ -14,14 +14,16 @@ void solve() {
         maxi=max(maxi,arr[i]);
         totalSum+=arr[i];
     }
-    for (ll decksize = n; decksize > 0; decksize--) {
-        ll deck = (totalSum + k) / decksize;     
-        if ((deck * decksize <= totalSum - 1) || (deck <= maxi - 1)) continue;  
-        else {
-            cout << decksize << endl;
-            break;
-        }
-    }
+    ll res=(totalSum+k)/maxi;
+    cout<<res<<endl;
+    // for (ll decksize = n; decksize > 0; decksize--) {
+    //     ll deck = (totalSum + k) / decksize;     
+    //     if ((deck * decksize <= totalSum - 1) || (deck <= maxi - 1)) continue;  
+    //     else {
+    //         cout << decksize << endl;
+    //         break;
+    //     }
+    // }
 }
 
 int main() {

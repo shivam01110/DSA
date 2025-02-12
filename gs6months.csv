@@ -1,0 +1,59 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
+1086,High Five,79.70%,Easy,1.35866998, https://leetcode.com/problems/high-five
+780,Reaching Points,29.40%,Hard,1.054860335, https://leetcode.com/problems/reaching-points
+42,Trapping Rain Water,48.90%,Hard,0.998813836, https://leetcode.com/problems/trapping-rain-water
+1041,Robot Bounded In Circle,49.60%,Medium,0.695004191, https://leetcode.com/problems/robot-bounded-in-circle
+209,Minimum Size Subarray Sum,38.20%,Medium,0.612452944, https://leetcode.com/problems/minimum-size-subarray-sum
+1163,Last Substring in Lexicographical Order,33.90%,Hard,0.611511197, https://leetcode.com/problems/last-substring-in-lexicographical-order
+387,First Unique Character in a String,53.40%,Easy,0.321014625, https://leetcode.com/problems/first-unique-character-in-a-string
+4,Median of Two Sorted Arrays,29.60%,Hard,0.248684078, https://leetcode.com/problems/median-of-two-sorted-arrays
+524,Longest Word in Dictionary through Deleting,48.40%,Medium,0.245606509, https://leetcode.com/problems/longest-word-in-dictionary-through-deleting
+166,Fraction to Recurring Decimal,21.60%,Medium,0.222634516, https://leetcode.com/problems/fraction-to-recurring-decimal
+443,String Compression,41.30%,Easy,0.158343558, https://leetcode.com/problems/string-compression
+592,Fraction Addition and Subtraction,49.00%,Medium,0.157185584, https://leetcode.com/problems/fraction-addition-and-subtraction
+532,K-diff Pairs in an Array,31.60%,Easy,0.157185584, https://leetcode.com/problems/k-diff-pairs-in-an-array
+862,Shortest Subarray with Sum at Least K,24.60%,Hard,0.097937535, https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k
+64,Minimum Path Sum,54.50%,Medium,0.093800408, https://leetcode.com/problems/minimum-path-sum
+49,Group Anagrams,56.90%,Medium,0.091013205, https://leetcode.com/problems/group-anagrams
+688,Knight Probability in Chessboard,48.90%,Medium,0.083926208, https://leetcode.com/problems/knight-probability-in-chessboard
+939,Minimum Area Rectangle,51.80%,Medium,0.08361414, https://leetcode.com/problems/minimum-area-rectangle
+547,Friend Circles,58.60%,Medium,0.074086001, https://leetcode.com/problems/friend-circles
+1051,Height Checker,71.10%,Easy,0.06960783, https://leetcode.com/problems/height-checker
+289,Game of Life,54.50%,Medium,0.067564737, https://leetcode.com/problems/game-of-life
+1395,Count Number of Teams,82.00%,Medium,0.056405928, https://leetcode.com/problems/count-number-of-teams
+647,Palindromic Substrings,60.60%,Medium,0.040968351, https://leetcode.com/problems/palindromic-substrings
+706,Design HashMap,61.30%,Easy,0.039016652, https://leetcode.com/problems/design-hashmap
+657,Robot Return to Origin,73.50%,Easy,0.038965969, https://leetcode.com/problems/robot-return-to-origin
+993,Cousins in Binary Tree,52.00%,Easy,0.038764543, https://leetcode.com/problems/cousins-in-binary-tree
+942,DI String Match,72.60%,Easy,0.038652154, https://leetcode.com/problems/di-string-match
+322,Coin Change,35.50%,Medium,0.02492403, https://leetcode.com/problems/coin-change
+8,String to Integer (atoi),15.40%,Medium,0.023470848, https://leetcode.com/problems/string-to-integer-atoi
+326,Power of Three,42.10%,Easy,0.023341309, https://leetcode.com/problems/power-of-three
+1209,Remove All Adjacent Duplicates in String II,56.90%,Medium,0.023243347, https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii
+99,Recover Binary Search Tree,39.70%,Hard,0.023109058, https://leetcode.com/problems/recover-binary-search-tree
+146,LRU Cache,33.20%,Medium,0.01827578, https://leetcode.com/problems/lru-cache
+200,Number of Islands,46.80%,Medium,0.017925482, https://leetcode.com/problems/number-of-islands
+560,Subarray Sum Equals K,43.90%,Medium,0.017009021, https://leetcode.com/problems/subarray-sum-equals-k
+153,Find Minimum in Rotated Sorted Array,45.10%,Medium,0.014939587, https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
+724,Find Pivot Index,44.00%,Easy,0.013850637, https://leetcode.com/problems/find-pivot-index
+120,Triangle,44.20%,Medium,0.013236461, https://leetcode.com/problems/triangle
+121,Best Time to Buy and Sell Stock,50.50%,Easy,0.013201163, https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+62,Unique Paths,54.10%,Medium,0.010367562, https://leetcode.com/problems/unique-paths
+238,Product of Array Except Self,60.10%,Medium,0.008821857, https://leetcode.com/problems/product-of-array-except-self
+876,Middle of the Linked List,68.40%,Easy,0.007624894, https://leetcode.com/problems/middle-of-the-linked-list
+1,Two Sum,45.60%,Easy,0.007361394, https://leetcode.com/problems/two-sum
+19,Remove Nth Node From End of List,35.20%,Medium,0.006908756, https://leetcode.com/problems/remove-nth-node-from-end-of-list
+11,Container With Most Water,50.80%,Medium,0.006889188, https://leetcode.com/problems/container-with-most-water
+76,Minimum Window Substring,34.60%,Hard,0.00623152, https://leetcode.com/problems/minimum-window-substring
+206,Reverse Linked List,62.50%,Easy,0.005257021, https://leetcode.com/problems/reverse-linked-list
+237,Delete Node in a Linked List,63.80%,Easy,0.005144706, https://leetcode.com/problems/delete-node-in-a-linked-list
+53,Maximum Subarray,46.50%,Easy,0.004869349, https://leetcode.com/problems/maximum-subarray
+155,Min Stack,44.50%,Easy,0.004748911, https://leetcode.com/problems/min-stack
+17,Letter Combinations of a Phone Number,46.80%,Medium,0.0044019, https://leetcode.com/problems/letter-combinations-of-a-phone-number
+242,Valid Anagram,56.90%,Easy,0.004154124, https://leetcode.com/problems/valid-anagram
+141,Linked List Cycle,41.10%,Easy,0.003493758, https://leetcode.com/problems/linked-list-cycle
+56,Merge Intervals,39.30%,Medium,0.003472829, https://leetcode.com/problems/merge-intervals
+122,Best Time to Buy and Sell Stock II,57.00%,Easy,0.003354582, https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+33,Search in Rotated Sorted Array,34.50%,Medium,0.003229977, https://leetcode.com/problems/search-in-rotated-sorted-array
+20,Valid Parentheses,39.00%,Easy,0.00230057, https://leetcode.com/problems/valid-parentheses
+3,Longest Substring Without Repeating Characters,30.40%,Medium,0.001555634, https://leetcode.com/problems/longest-substring-without-repeating-characters

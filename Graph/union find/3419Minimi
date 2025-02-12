@@ -1,0 +1,44 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+class Solution {
+public:
+    bool isPossibleWithWeightW(int n,int weight,vector<vector<pair<int,int>>>& adjList){
+        vector<int> visited(n,0);
+        visited[0]=1;
+        int cnt=1;  //number of vertex visited
+        queue<int> q;
+        q.push(0);
+        while(!q.empty()){
+            int f=q.front();
+            q.pop();
+            for(auto p:adjList[f]){
+                if(!visited[p.first] && p.second<=weight){
+                    visited[p.first]=1;
+                    cnt++;   
+                    q.push(p.first);              
+                }
+            }
+        }
+        return (cnt==n);
+    }
+    int minMaxWeight(int n, vector<vector<int>>& edges, int threshold) {
+        int MinWeight=INT_MAX,MaxWeight=INT_MIN,ans=-1;
+        vector<vector<pair<int,int>>> adjList(n);
+        for(auto e:edges){
+            adjList[e[1]].push_back(make_pair(e[0],e[2])); //reverse the edges
+            MinWeight=min(MinWeight,e[2]);
+            MaxWeight=max(MaxWeight,e[2]);
+        }
+        while(MinWeight<=MaxWeight){
+            int mid=MinWeight+(MaxWeight-MinWeight)/2;
+            if(isPossibleWithWeightW(n,mid,adjList)){
+                ans=mid;
+                MaxWeight=mid-1;
+            }else{
+                MinWeight=mid+1;
+            }
+        }
+        return ans;
+    }
+};
